@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+}
+
+.box {
+  display: inline-block;
+  width: 50%;
+  margin: 1em;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-size: 50px;
+    margin: 1em;
+}
+
+h2 {
+    font-family: Helvetica;
+    margin: 2em 0 0.35em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid #D3D3D3;
+}
+
+td:hover {
+  background-color: #D3D3D3;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 17px;
+}
+
+input[type=number] {
+    font-family: Helvetica;
+    width: 6em;
+}
