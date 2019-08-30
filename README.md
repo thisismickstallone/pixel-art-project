@@ -1,2 +1,2 @@
 # pixel-art-project
-Udacity Javascript Project
+Udacity Intro to Programming: Javascript Project
